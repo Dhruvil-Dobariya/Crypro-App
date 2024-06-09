@@ -15,6 +15,7 @@
 
 .hero h1 {
   font-size: max(4vw, 36px);
+  margin: auto;
 }
 
 .hero p {
