@@ -19,5 +19,8 @@ a {
   min-height: 100vh;
   color: white;
   /* background: linear-gradient(#0b004e, #1d152f, #002834); */
-  background: url(./Assets/Background/9145828.jpg);
+  background-image: url(./Assets/Background/hex-textured-background-networking.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
